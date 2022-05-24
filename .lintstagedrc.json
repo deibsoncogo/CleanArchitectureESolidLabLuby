@@ -1,7 +1,0 @@
-{
-  "*.ts": [
-    "eslint './scr/**' --fix",
-    "yarn test:staged",
-    "git add"
-  ]
-}
